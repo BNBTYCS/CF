@@ -1,0 +1,2 @@
+new case>give name>fill details>finish>next>Logical files>add>selct a folder>next>
+next>finish>open that file>again open that file>show contents to teacher

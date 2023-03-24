@@ -1,0 +1,14 @@
+capture>select your interface>start>filter(ip.addr==192.168.0.106) - this should be your system's IP
+capture>select your interface>start>filter(ip.src==192.168.0.106) - this should be your system's IP
+capture>select your interface>start>filter(ip.dst==192.168.0.106) - this should be your system's IP
+capture>select your interface>start>filter(http)
+capture>select your interface>start>filter(http.request)
+capture>select your interface>start>filter(tcp)
+capture>select your interface>start>filter(http.response.code==200)
+capture>select your interface>start>filter(tcp.port == 80 || udp.port == 80)
+capture>select your interface>start>filter(tcp contains facebook)	#this doesnt work
+
+
+
+
+

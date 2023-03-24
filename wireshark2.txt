@@ -1,0 +1,6 @@
+open wireshark>start capturing>
+open chrome>open"http://www.rrcpryj.org/">
+filter>http>find rrcpryj.org/ packet host>expand hypertext in bottom left console>right click on "Host">apply as a column>
+right click on rrcpryj.org/ packet > follow TCP stream.
+
+in popup window show->Server: Apache

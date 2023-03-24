@@ -1,0 +1,24 @@
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<PROCMON>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+open procmon>click filter icon>select process name>give process name>"chrome.exe">click add>apply>ok>
+# (showing step)>>>tools>process tree
+show to teacher.
+
+tools>count occurences>in column>select"process name">click"count"
+show to teacher.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<TCP VIEW>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+open tcp view>select any 1>right click>select "who is">click "copy">paste it on notepad
+show to teacher.
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<DISK MON>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+OPEN DISKMON>FILE>SAVE AS>SAVE ON DESKTOP>OPEN THAT .LOG FILE.
+show to teacher.
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<VM MAP>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+open vmmap>select a process>file>save>save that .mmp file>open that .mmp file
+show to teacher.
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<RAM MAP>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+open rammap>save>save .RMP file>open that .RMP file
+show to teacher.

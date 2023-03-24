@@ -1,0 +1,4 @@
+file>create disc image>contents of folder>next>select a folder>finish>add>fill 01 in all details>next>browse>
+select desktop folder>give file name>finish>click start
+
+file>add evidence item>image file>browse>(fine the file you saavbed in previous steps(in desktop))>click open>finish>show the contents of files.
